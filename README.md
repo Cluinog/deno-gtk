@@ -13,8 +13,6 @@
 <h1 align="center">Deno-Gtk</h1>
 <p align="center">
   <b>GNOME Gtk+ bindings for NodeJS</b>
-  <br/>
-  <img src="https://img.shields.io/npm/v/node-gtk" alt="Package Version" />
 </p>
 
 Deno-Gtk port of Node-Gtk which is, itself, a [gobject-introspection](https://gi.readthedocs.io/en/latest) library for nodejs. It makes it possible to
