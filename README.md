@@ -1,3 +1,5 @@
+> Warnings: this project is a work in project and does not work in this current state
+
 <p align="center">
     <a>
       <img
@@ -15,7 +17,7 @@
   <img src="https://img.shields.io/npm/v/node-gtk" alt="Package Version" />
 </p>
 
-Node-Gtk is a [gobject-introspection](https://gi.readthedocs.io/en/latest) library for nodejs. It makes it possible to
+Deno-Gtk port of Node-Gtk which is, itself, a [gobject-introspection](https://gi.readthedocs.io/en/latest) library for nodejs. It makes it possible to
 use any introspected library, such as Gtk+, usable.  It is similar in essence to [GJS](https://wiki.gnome.org/action/show/Projects/Gjs) or [PyGObject](https://pygobject.readthedocs.io). Please note this project is currently in a _beta_ state and is being developed. Any contributors willing to help
 will be welcomed.
 
