@@ -10,7 +10,7 @@
     </a>
 </p>
 
-<h1 align="center">node-gtk</h1>
+<h1 align="center">Deno-Gtk</h1>
 <p align="center">
   <b>GNOME Gtk+ bindings for NodeJS</b>
   <br/>
