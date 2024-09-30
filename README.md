@@ -5,7 +5,7 @@
       <img
         alt="NODE-GTK"
         width="250"
-        src="https://raw.githubusercontent.com/romgrk/node-gtk/master/img/node-gtk-logo.svg?sanitize=true"
+        src="https://github.com/user-attachments/assets/e3bb24b4-921c-4e14-a038-062bf87c6e6c"
       />
     </a>
 </p>
